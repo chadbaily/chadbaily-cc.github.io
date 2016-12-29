@@ -1884,6 +1884,24 @@
 				.icon.circle.fa-github:hover {
 					background: #e1b89b;
 				}
+				
+			.icon.circle.fa-bitbucket {
+				background: #dcad8b;
+				color: #fff;
+			}
+
+				.icon.circle.fa-bitbucket:hover {
+					background: #e1b89b;
+				}
+				
+			.icon.circle.fa-linkedin {
+				background: #dcad8b;
+				color: #fff;
+			}
+
+				.icon.circle.fa-linkedin:hover {
+					background: #e1b89b;
+				}
 
 			.icon.circle.fa-dribbble {
 				background: #da83ae;
